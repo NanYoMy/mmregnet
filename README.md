@@ -9,11 +9,11 @@ This registration network has been applied to liver and heart registration task:
 
 A visual demonstration of the SEGI. :
 <!-- ![Framework](./img/framework.png "Framework") --> 
-<img src="./img/segi.png" alt="" width="60%"  align="middle"  />
+<img src="./img/segi.png" alt="" width="100%"  align="middle"  />
 
 Visualization of different methods on MM-WHS and CHAOS datasets. The showed images are the representative cases in terms of DS by MMRegNet. The blue contours are the gold standard label of the fixed images, while the red contours delineate the label of moving or moved images. We indicate the advantage of MMRegNet via yellow arrows.:
 <!-- ![Model output](./img/reg.png "Model output") -->
-<img src="./img/res.png" alt="" width="60%"  align="middle" />
+<img src="./img/res.png" alt="" width="100%"  align="middle" />
 
 
 
