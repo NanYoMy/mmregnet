@@ -25,5 +25,8 @@ Visualization of different methods on MM-WHS and CHAOS datasets. The showed imag
 ## Acknowledgement
 This project is largely based on the "labreg", "simpleitk", "antspy" and "voxelmorph" repositories.
 
+## Reference
+`Ding, W., Li, L., Zhuang, X., & Huang, L. (2021). Unsupervised MMRegNet based on Spatially Encoded Gradient Information. STACOM 2021 oral `
+
 ## Contact
 If you have any question or issuse, create a new issue, or directly email me at moon_well@live.cn
